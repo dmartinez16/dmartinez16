@@ -38,4 +38,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dmartinez16&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-![Snake animation](https://github.com/dmartinez16/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/dmartinez16/dmartinez16/blob/output/github-contribution-grid-snake.svg)
