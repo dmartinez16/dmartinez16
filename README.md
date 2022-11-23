@@ -1,5 +1,5 @@
 <div id="header" align="center">
-    <img src="https://media.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif" width="200" />
+    <img src="https://media.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif" width="70%" />
     <h1 align="center">Hi 👋, I'm Dmartinez16</h1>
     <h3 align="center">Hello, my name is Dilan Martinez, a recently graduated Systems Engineer, passionate about programming and technology.</h3>
 </div>
