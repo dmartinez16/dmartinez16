@@ -32,9 +32,12 @@
 
 ### 📊 My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Dmartinez16&theme=gotham&hide_border=true&date_format=%5BY%20%5DM%20j)](https://git.io/streak-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Dmartinez16&show_icons=true&theme=radical)
+<p align="center">
+    <a href="#"><img alt="Dilan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Dmartinez16&show_icons=true&count_private=true&theme=dark&hide_border=true&bg_color=0D1117" /></a>
+  <a href="#"><img alt="Dilan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dmartinez16&langs_count=8&count_private=true&layout=compact&theme=dark&hide_border=true&bg_color=0D1117" /></a>
+    
+  </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dmartinez16&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
 
