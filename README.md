@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Java, NetBeans, GNS3 and PHP**
 
-- 📫 How to reach me **chingasilvaet@gmail.com**
+- 📫 How to reach me **dmartinezing16@gmail.com**
 
 - 🌱 I’m currently learning **Spring Boot, Python, Laravel and Bootstrap**
 
