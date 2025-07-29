@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/dmartinez16/dmartinez16/main/assets/banner-profesional.png" width="100%" alt="Banner Profesional"/>
   <h1>Hi 👋, I'm Dilan Martinez</h1>
   <h3>Fullstack Developer | C# .NET | SQL | DevOps with Azure</h3>
 </div>
