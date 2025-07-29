@@ -10,7 +10,6 @@
 - 🎓 Systems Engineer with 3 years of experience as a Fullstack Developer.
 - 💼 I specialize in **C# .NET**, **SQL Server**, and **Oracle**.
 - 🛠️ I use **Git** and follow **DevOps practices** with **Azure**.
-- 🌱 Currently expanding my knowledge in **Spring Boot**, **Python**, and **Laravel**.
 - 💬 Basic knowledge in **PHP**, familiar with web technologies.
 - 🌍 English level: **B1**
 - 📫 Reach me at: **dmartinezing16@gmail.com**
