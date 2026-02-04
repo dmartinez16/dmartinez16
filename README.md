@@ -58,12 +58,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=dmartinez16&show_icons=true&theme=dark&hide_border=true&cache_seconds=1800" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmartinez16&layout=compact&langs_count=8&theme=dark&hide_border=true&cache_seconds=1800" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dmartinez16&show_icons=true&theme=default" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=dmartinez16&theme=dark&hide_border=true" />
-</p>
 
 
