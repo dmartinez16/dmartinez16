@@ -56,7 +56,6 @@
 ---
 
 ### 📊 GitHub Stats
-
 <p align="center" dir="auto">
   <a href="https://github.com/dmartinez16">
     <img height="180em"
