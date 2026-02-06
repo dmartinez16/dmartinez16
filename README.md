@@ -62,10 +62,11 @@
       src="https://github-readme-stats-eight-theta.vercel.app/api?username=dmartinez16&show_icons=true&theme=algolia&include_all_commits=true"
       style="max-width: 100%;"/>
     <img height="180em"
-      src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dmartinez16&layout=compact&langs_count=8&theme=algolia"
+      src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dmartinez16&hide=html,css,scss&layout=compact&theme=algolia"
       style="max-width: 100%;" />
   </a>
 </p>
+
 
 
 
